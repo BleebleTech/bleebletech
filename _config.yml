@@ -1,20 +1,20 @@
 # Site Settings
 lang: en
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
-email: your-email@domain.com
+title: Bleeble Tech
+tagline: Bleeble Tech
+email: bleeble.tech@gmail.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+  Under Construction
 baseurl: "/bulma-clean-theme"
 url: "https://www.csrhymes.com"
 permalink: pretty
 #favicon: /path/to/favicon.png
-gh_sponsor: chrisrhymes
-#hide_share_buttons: true
-#theme_color: '#eeeeee'
-#fixed_navbar: top
+#gh_sponsor: chrisrhymes
+hide_share_buttons: true
+theme_color: '#92eebd'
+fixed_navbar: top
 #direction: one of <ltr, rtl, auto>, default: ltr
-force_theme: light
+force_theme: dark
 
 paginate: 5
 paginate_path: "/blog/page:num"
@@ -24,7 +24,7 @@ disqus:
   # Leave shortname blank to disable comments site-wide.
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
   # shortname: my_disqus_shortname
-  shortname: csrhymes
+  shortname:
 
 
 plugins:
